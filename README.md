@@ -15,7 +15,7 @@
 - TU Delft  
 - icl
 - nyu
-- prudue - waitlist
+- purdue - waitlist
 - toronto  
 - waterloo 
 - case western 
