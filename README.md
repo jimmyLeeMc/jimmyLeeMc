@@ -13,7 +13,7 @@
 - uw midison
 - uiuc - waitlist
 - TU Delft  
-- ic   
+- icl
 - nyu
 - prudue - waitlist
 - toronto  
