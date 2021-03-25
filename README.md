@@ -2,18 +2,18 @@
 - 👀 I'm currently a senior highschooler appling to college.
 - So let's use this space to see which college is nice enough to take me.
 
-- mit❌
-- cmu❌
+- mit ❌
+- cmu
 - Cornell
 - johnshopkins❌
-- oxford❌
+- oxford ❌
 - tufts
-- georgia tech❌
+- georgia tech ❌
 - Michigan
 - uw midison
 - uiuc - waitlist
 - TU Delft  
-- icl
+- icl ❌
 - nyu
 - purdue - waitlist
 - toronto  
