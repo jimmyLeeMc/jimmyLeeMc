@@ -3,13 +3,13 @@
 - So let's use this space to see which college is nice enough to take me.
 
 - mit ❌
-- cmu
+- cmu ❌
 - Cornell
 - johnshopkins❌
 - oxford ❌
 - tufts
 - georgia tech ❌
-- Michigan
+- Michigan ❌
 - uw midison
 - uiuc - waitlist
 - TU Delft  
@@ -18,7 +18,7 @@
 - purdue - waitlist
 - toronto  
 - waterloo 
-- case western 
+- case western - waitlist
 - ucl ❌
 - edin 
 - McGill 
