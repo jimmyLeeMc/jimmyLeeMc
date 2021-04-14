@@ -4,24 +4,24 @@
 
 - mit ❌
 - cmu ❌
-- Cornell
+- Cornell ❌
 - johnshopkins❌
 - oxford ❌
-- tufts
+- tufts ❌
 - georgia tech ❌
 - Michigan ❌
-- uw midison
-- uiuc - waitlist
+- uw midison ✅
+- uiuc - waitlist -✅
 - TU Delft  
 - icl ❌
-- nyu
+- nyu ❌
 - purdue - waitlist
 - toronto  
 - waterloo 
-- case western - waitlist
+- case western - waitlist - withdrawn
 - ucl ❌
-- edin 
-- McGill 
+- edin - withdrawn
+- McGill - withdrawn
 - ntu
 - manchester ✅
 
