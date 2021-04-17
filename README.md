@@ -16,8 +16,8 @@
 - icl ❌
 - nyu ❌
 - purdue - waitlist
-- toronto  
-- waterloo 
+- toronto  ✅
+- waterloo ✅
 - case western - waitlist - withdrawn
 - ucl ❌
 - edin - withdrawn
