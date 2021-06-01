@@ -15,7 +15,7 @@
 - TU Delft  
 - icl ❌
 - nyu ❌
-- purdue - waitlist
+- purdue - waitlist ❌
 - toronto  ✅
 - waterloo ✅
 - case western - waitlist - withdrawn
@@ -24,6 +24,7 @@
 - McGill - withdrawn
 - ntu
 - manchester ✅
+-warwick ✅
 
 - HMU!: jimlimingcan@gmail.com
 <!---
