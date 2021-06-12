@@ -24,7 +24,7 @@
 - McGill - withdrawn
 - ntu
 - manchester ✅
--warwick ✅
+- warwick ✅
 
 - HMU!: jimlimingcan@gmail.com
 <!---
