@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jimmyLeeMc
 - 👀 I'm currently a senior highschooler appling to college.
-- So let's use this space to see which college is nice enough to take me.
+- So let's use this space to see which college is kind enough to take me.
 
 - mit ❌
 - cmu ❌
