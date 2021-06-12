@@ -12,7 +12,7 @@
 - Michigan ❌
 - uw midison ✅
 - uiuc - waitlist -✅
-- TU Delft  
+- TU Delft ✅
 - icl ❌
 - nyu ❌
 - purdue - waitlist ❌
